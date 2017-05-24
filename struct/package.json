@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "cluster": "^0.7.7",
+    "compression": "^1.6.2",
+    "debug": "~0.7.4",
+    "express": "~4.0.0",
+    "fs": "0.0.2",
+    "event-stream": "^3.3.3",
+    "pretty-hrtime": "^1.0.3",
+  }
+}
